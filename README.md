@@ -3,7 +3,7 @@
 > A modern PHP frontend rendering and reactive UI library inspired by JSX, HTMX, Livewire, and server-driven UI concepts.
 
 ⚠️ **WARNING: DEVELOPMENT PHASE**
-
+> ![WARNING]
 PHX is currently in **active development** and is **NOT production ready** yet.
 
 Features, APIs, folder structure, rendering behavior, and runtime internals may change at any time without backward compatibility.
