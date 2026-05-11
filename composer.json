@@ -1,7 +1,9 @@
 {
     "name": "sushilk/phx",
     "description": "PHX",
+    "keywords": ["phx", "ui", "jxs"],
     "type": "library",
+    "homepage": "https://github.com/codebysushil/phx.git",
     "require": {
         "php": "^8.4",
         "ext-libxml": "*",
