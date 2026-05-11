@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Phx\Phx;
+namespace PHX;
 
 final readonly class PHX
 {
