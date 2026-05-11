@@ -35,6 +35,9 @@
             "email": "sushilkumbhar77@gmail.com"
         }
     ],
+    "scripts": {
+      "lint": "pint"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
