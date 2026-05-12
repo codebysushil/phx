@@ -18,7 +18,8 @@
         "ext-dom": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "nikic/php-parser": "^5.7"
+        "nikic/php-parser": "^5.7",
+        "ext-tokenizer": "*"
     },
     "require-dev": {
         "laravel/pint": "^1.29"
