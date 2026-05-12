@@ -1,5 +1,5 @@
 {
-    "name": "sushilk/phx",
+    "name": "phx/phx",
     "description": "A modern PHP frontend rendering and reactive UI library inspired by JSX, HTMX, Livewire, and server-driven UI concepts",
     "keywords": [
       "phx",
